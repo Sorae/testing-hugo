@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My test static website generated with Hugo</title>
+    <link>https://sorae.github.io/testing-hugo/posts/</link>
+    <description>Recent content in Posts on My test static website generated with Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 11 May 2020 00:52:08 +0200</lastBuildDate>
+    
+	<atom:link href="https://sorae.github.io/testing-hugo/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hello world</title>
+      <link>https://sorae.github.io/testing-hugo/posts/my-first-post/</link>
+      <pubDate>Mon, 11 May 2020 00:52:08 +0200</pubDate>
+      
+      <guid>https://sorae.github.io/testing-hugo/posts/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
